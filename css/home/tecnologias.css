@@ -75,6 +75,9 @@
   .tecnologia a {
     margin-bottom: 60px;
   }
+  .tecnologia-conteudo > span {
+    margin-bottom: 5px;
+  }
 }
 
 @media (max-width: 600px) {
