@@ -24,5 +24,8 @@
 /* Termos */
 @import "./termos/termos.css";
 
+/* Bicicletas */
+@import "./bicicletas/bicicletas.css";
+
 /* Seguros */
 @import "./seguros/seguros-2.css";
