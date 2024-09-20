@@ -16,16 +16,15 @@
 
 .footer-contato ul {
   padding-bottom: 32px;
-
 }
 
 .footer-contato li:nth-child(even):after {
-content: "";
-display: block;
-max-width: 360px;
-height: 2px;
-background: var(--cor-11);
-margin-top: 16px;
+  content: "";
+  display: block;
+  max-width: 360px;
+  height: 2px;
+  background: var(--cor-11);
+  margin-top: 16px;
 }
 
 .footer li {
@@ -57,7 +56,7 @@ margin-top: 16px;
 
 @media (max-width: 600px) {
   .footer {
-    grid-template-columns:  1fr;
+    grid-template-columns: 1fr;
     gap: 60px;
   }
   .footer-copy {
