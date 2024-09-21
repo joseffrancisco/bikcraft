@@ -15,6 +15,7 @@
 .termos p {
   margin-bottom: 24px;
   max-width: 75ch;
+  text-align: justify;
 }
 
 @media (max-width: 800px) {
